@@ -13,13 +13,13 @@
 <br/>
 <br/>
 
-Hi, I'm Shadi Altarsha, a Software Engineer 🚀  from Syria, currently, I'm a Backend Developer 🧑🏻‍💻 [@Jodel](https://jodel.com). Beside programming, I enjoy eating food and watching football ⚽️
+Hi, I'm Shadi Altarsha, a Software Engineer 🚀  from Syria.Currently, I'm a Backend Developer 🧑🏻‍💻 [@Jodel](https://jodel.com). Beside programming, I enjoy eating food and watching football ⚽️
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
-- 📝  I’m currently learning Golang, kafka and Cassandra;
+- 📝  I’m currently learning Golang, Kafka and Cassandra;
 - 👀  I’m interested in distributed systems and scalability problems;
 - 💬  Ask me about anything, I am happy to help;
 - 📫  How to reach me: [@shadi-altarsha](https://www.linkedin.com/in/shadi-altarsha/);
