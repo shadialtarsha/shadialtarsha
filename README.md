@@ -13,7 +13,7 @@
 <br/>
 <br/>
 
-Hi, I'm Shadi Altarsha, a Software Engineer 🚀  from Syria.Currently, I'm a Backend Developer 🧑🏻‍💻 [@Jodel](https://jodel.com). Beside programming, I enjoy eating food and watching football ⚽️
+Hi, I'm Shadi Altarsha, a Software Engineer 🚀  from Syria. Currently, I'm a Backend Developer 🧑🏻‍💻 [@Jodel](https://jodel.com). Beside programming, I enjoy eating food and watching football ⚽️
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
