@@ -13,16 +13,16 @@
 <br/>
 <br/>
 
-Hi, I'm Shadi Altarsha, a Software Engineer 🚀 from Syria, currently, I'm a Backend Developer 🧑🏻‍💻 [@Jodel](https://jodel.com). Beside programming, I enjoy eating food and watching football ⚽️.
+Hi, I'm Shadi Altarsha, a Software Engineer 🚀  from Syria, currently, I'm a Backend Developer 🧑🏻‍💻 [@Jodel](https://jodel.com). Beside programming, I enjoy eating food and watching football ⚽️
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
-- 📝 I’m currently learning Golang, kafka and Cassandra; 
-- 👀 I’m interested in distributed systems and scalability problems; 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@shadi-altarsha](https://www.linkedin.com/in/shadi-altarsha/);
+- 📝  I’m currently learning Golang, kafka and Cassandra;
+- 👀  I’m interested in distributed systems and scalability problems;
+- 💬  Ask me about anything, I am happy to help;
+- 📫  How to reach me: [@shadi-altarsha](https://www.linkedin.com/in/shadi-altarsha/);
 
 **Languages and Tools:**  
 
@@ -37,9 +37,8 @@ Hi, I'm Shadi Altarsha, a Software Engineer 🚀 from Syria, currently, I'm a Ba
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **This Week I Spent My Time On:**
+📈  **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 
