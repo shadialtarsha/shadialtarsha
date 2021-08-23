@@ -40,7 +40,8 @@ Hi, I'm Shadi Altarsha, a Software Engineer 🚀  from Syria. Currently, I'm a B
 📈  **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   37 mins         █████████████████████████   100.00 % 
+JavaScript   1 hr 53 mins    ████████████████████████▓   98.89 % 
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
 ```
 <!--END_SECTION:waka-->
 
